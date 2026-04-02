@@ -84,7 +84,7 @@
 
   <p>Join India's Best Free Fire Tournament • Compete Daily, Win Cash Instantly 💥</p>  
 
-  <a href="[https://fs.digicroz.com/esports/apper/eva-battle-zone/apk-builds/eva-battle-zone-v4.apk]()" class="download-btn" download>⚔ Download App (APK)</a>
+  <a href="https://fs.digicroz.com/esports/apper/eva-battle-zone/apk-builds/eva-battle-zone-v4.apk" class="download-btn" download>⚔ Download App (APK)</a>
 
   <div class="feature">  
     <h3>🎯 Free Tournaments</h3>  
