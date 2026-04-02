@@ -77,7 +77,7 @@
 </head>  
 <body>  
   <div class="logo">  
-    <img src="https://github.com/user-attachments/assets/b7185ed2-f454-48c7-a20b-2105e0dc0d16" alt="EVA BATTLE ZONE Logo">  
+    <img src="https://github.com/user-attachments/assets/46d1288d-186d-4b33-a7b4-6a7e9d0f1479" alt="EVA BATTLE ZONE Logo">  
   </div>  
 
   <h1>EVA BATTLE ZONE</h1>  
